@@ -19,7 +19,7 @@
         {
             "title": "PaintCharades",
             "date": "2022 | Java and Angular",
-            "description": "Frustrated with someone elses' online game of drawing-charades having a untastefully dated UI and being too full of ads to enjoy, I set out to create an ad-free clone with an even more dated UI!<br><br>With a Spring Boot/Java backend and an Angular front-end, this game of charades features a fun retro style that instantly brings you back to the days of old!<br><br>You can try the live demo, but note there will be some bugs as it is still in active development!",
+            "description": "Frustrated with someone elses' online game of drawing-charades having a untastefully dated UI and being too full of ads to enjoy, I set out to create an ad-free clone with an even more dated UI!<br><br>With a Spring Boot/Java backend and an Angular front-end, this game of charades features a fun retro style that instantly brings you back to the days of old!",
             "imageUrl": "assets/images/projects/programming/paintcharades.png",
             "links": [
                 {
