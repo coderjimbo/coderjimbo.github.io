@@ -23,12 +23,6 @@
             "imageUrl": "assets/images/projects/programming/paintcharades.png",
             "links": [
                 {
-                    "useIcon": false,
-                    "icon": "fab fa-youtube",
-                    "text": "Try Live Demo",
-                    "url": "http://jameskeith.net/charades"
-                },
-                {
                     "useIcon": true,
                     "icon": "fab fa-github",
                     "text": "View Source Code",
